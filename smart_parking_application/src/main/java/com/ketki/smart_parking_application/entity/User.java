@@ -34,7 +34,6 @@ public class User {
 
     public enum Role {
         USER,
-        ADMIN,
-        IOT_DEVICE
+        ADMIN
     }
 }
