@@ -3,7 +3,7 @@ import axios from "axios";
 // ─────────────────────────────────────────
 // Base URL — your Spring Boot backend
 // ─────────────────────────────────────────
-const BASE_URL = "http://localhost:8080/api";
+const BASE_URL = "https://smart-parking-application.onrender.com/api";
 
 // ─────────────────────────────────────────
 // Axios instance — automatically adds
